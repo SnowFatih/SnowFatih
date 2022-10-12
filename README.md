@@ -10,18 +10,18 @@
 
 ### Ma présentation:
 - 🎓 2 ans dans une filière technologique STI2D à Avignon (84000)
-- 🕹️ Création de projets informatique comme serveur Minecraft, début de site web..
+- 🕹️ Création de projets informatique: serveur Minecraft, début de site web..
 - 🎥 Depuis mes 12 ans, j'aide ma cousine dans la photographe/vidéographie
 - 💻 2021: Entrepreneur dans la vidéographie orienté drone
 - 🌐 Dans un BTS SIO SLAM, avec une entrprise dev informatique à Cergy
 
-### Je sais coder en:
+### Je maîtrise:
 - 🌐 React, Java, C++, HTML&CSS, JavaScipt
-- 🕹️ Unity, C#, Blender
-- 🎨 Affinity Designer, Affinity Photo
+- 🎨 Photoshop, Première Pro, After Effects
 
 ### Mes passions:
 - 🎵 Musique
 - 📷 Videographie
+- 🚀 Drone FPV
 - 🎨 Design
 - 🎞️ Film & série
