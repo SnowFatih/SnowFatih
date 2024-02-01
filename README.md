@@ -16,8 +16,8 @@
 - 🌐 2023 : BTS SIO SLAM, avec une entrprise dev informatique à Cergy
 
 ### Je maîtrise:
-- 🌐 React, Java, C++, HTML&CSS, JavaScipt
-- 🎨 Photoshop, Première Pro, After Effects
+- 🌐 NextJS, NodeJS, React
+- 🎨 Suite Adobe
 
 ### Mes passions:
 - 🎵 Musique
